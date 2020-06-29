@@ -7,4 +7,4 @@ The goal of this project is to evaluate two representations (vector representati
 
 ## Acknowledgment
 
-This was a group project of Machine Learning course. I thank my group members for thoughtful contribution on this project.
+This was a group project for Machine Learning course. I thank my group members for thoughtful contribution on this project.
